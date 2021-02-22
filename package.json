@@ -18,9 +18,16 @@
   },
   "homepage": "https://github.com/Ievgenii-davidenko/goit-node-js#readme",
   "devDependencies": {
-    "nodemon": "^2.0.6"
+    "husky": "^4.3.0",
+    "lint-staged": "^10.4.0",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.1.2"
   },
   "dependencies": {
-    "yargs": "^16.2.0"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "morgan": "^1.10.0",
+    "uuid": "^8.3.1"
   }
 }
